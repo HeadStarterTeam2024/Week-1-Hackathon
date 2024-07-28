@@ -1,4 +1,4 @@
-# Chrome-Extension-Base-Template
+# Smart Email - Smarter email management
 
 <!-- LICENSE FOR THE README TEMPLATE USED FROM https://github.com/othneildrew/Best-README-Template
 
@@ -45,7 +45,7 @@ SOFTWARE.-->
 <h3 align="center">SmartEmail</h3>
 
   <p align="center">
-    A simple chrome extension.
+    a Chrome extension for smarter email management
     <br />
     <a href="https://github.com/HeadStarterTeam2024/Week-1-Hackathon"><strong>Explore the docs »</strong></a>
     <br />
@@ -83,11 +83,16 @@ SOFTWARE.-->
 ## About the Project
 
 ### Features
+Our extension will:
+- 📩 Summarize emails for quick insights
+- 📪 Prioritize unread emails based on your personalized requirements
+- 📧 Integrate seamlessly with various email providers
 
 ### Authors
-First Last
-- [Author Website]()
-- [Author Github]()
+- Vindhyaa Saravanan
+- Deepika Prabhakaran
+- Shruti Khade
+- Muskan Khushi
 
 ## Getting Started
 
@@ -102,20 +107,7 @@ First Last
 - IDE or Text Editor of Your Choice
 
 ### Installation
-
-#### For Developers
-1. Make a clone of this project, unzipped.
-2. Open Chrome Browser
-3. In a new or blank tab, type in "chrome://extensions/" (without the quotes of course) and click [Enter].
-4. At the top right corner of the page, **enable** "Developer Mode"
-5. Click the button on the page that says "Load Unpacked"
-6. Navigate to your unzipped project folder and select that and hit OK.
-7. You are now ready to start working on the extension! Just make sure you reload after each change you make to see the changes take place.
-
-#### For End Users
-1. ...
-2. ...
-3. ...
+Coming Soon!
 
 ## License
 Please refer to LICENSE file.
