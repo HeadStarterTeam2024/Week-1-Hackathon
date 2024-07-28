@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "Your Chrome Extension Name",
+  "name": "Email Summarizer Extension",
   "version": "0.1",
   "author": "First Last",
-  "description": "A description about your Chrome Extension...",
+  "description": "A Chrome extension that summarizes email content using OpenAI's ChatGPT.",
   "permissions": [
     "activeTab",
     "scripting"
@@ -24,6 +24,6 @@
   "action": {
     "default_icon": "logo.png",
     "default_popup": "index.html",
-    "default_title": "A tooltip popup description when you hover over the Chrome Extension icon."
+    "default_title": "Summarize Email Content"
   }
 }
